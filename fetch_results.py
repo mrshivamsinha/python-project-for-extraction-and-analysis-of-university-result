@@ -61,11 +61,11 @@ import csv
 import time
 
 # Base URL pattern
-base_url = "https://results.beup.ac.in/ResultsBTech6thSem2024_B2021Pub.aspx?Sem=VI&RegNo={}"
+base_url = "https://results.beup.ac.in/ResultsBTech7thSem2023_B2020Pub.aspx?Sem=VII&RegNo={}"
 
 # Range of registration numbers
-start_reg = 22104108901
-end_reg = 22104108915
+start_reg = 20105108001
+end_reg = 20105108060
 
 # Output CSV file
 output_file = "BEU_Results.csv"
